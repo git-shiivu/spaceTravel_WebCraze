@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/image10/A-serene-scene-of-a-dark-planet-with-a-faintly-glowing-atmosphere-set-against-the-starry-background-of-deep-black-space-1.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
